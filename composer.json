@@ -1,10 +1,10 @@
 {
-    "name": "web-auth/webauthn-framework",
+    "name": "igamesinc/webauthn-framework",
     "description": "FIDO2/Webauthn library for PHP and Symfony Bundle.",
     "type": "symfony-bundle",
     "license": "MIT",
     "keywords": [],
-    "homepage": "https://github.com/web-auth/webauthn-framework",
+    "homepage": "https://github.com/igamesinc/webauthn-framework",
     "authors": [
         {
             "name": "Florent Morselli",
